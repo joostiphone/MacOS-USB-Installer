@@ -4,7 +4,7 @@ This is a small how-to showing how to create a MacOS USB Installer and why you s
 
 ![alt test](/Pictures/USB-Big-Sur.png)
 
-# Why create a USB installer:
+# Why creating a USB installer:
 
 There are mainly 3 reasons I can think of to have a USB installer prepared:
 -	Have a USB-stick ready (with your pre-made EFI) to install MacOS on a fresh system.
