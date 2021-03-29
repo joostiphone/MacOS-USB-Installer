@@ -2,7 +2,7 @@
 
 This is a small how-to showing how to create a MacOS USB Installer and why you should do this.
 
-![alt test](/Pictures/USB-Big-Sur.png)
+![alt test](/Pictures/USB-stick-Big-Sur.png)
 
 # Why creating a USB installer:
 
