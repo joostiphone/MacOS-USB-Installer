@@ -24,18 +24,19 @@ https://www.aliexpress.com/item/4000495003631.html?spm=a2g0o.productlist.0.0.4aa
 1.	Download Big Sur in the AppStore on your current Mac:
 
 Download it and wait. It’s approx. 13 GB so it can take a while:
-![alt test](/Pictures/Screenshot 2021-03-29 at 15.16.32.png)
+
+![alt test](/Pictures/2.png)
 
 After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ‘Applications’ folder as ‘’Install MacOS Big Sur.app.
 
-![alt test](/Pictures/Screenshot 2021-03-29 at 15.17.46.png)
+![alt test](/Pictures/3.png)
 
 
 2.	Format your USB stick as follows:
 2a. Name it ‘USB’
 2b. Format as ‘Mac OS Extended (journaled)’
 
-![alt test](/Pictures/Schermafbeelding 2021-03-29 om 15.03.29.png)
+![alt test](/Pictures/1.png)
 
 Your USB should now appear as ‘USB’ in Finder. 
 
@@ -43,7 +44,7 @@ Your USB should now appear as ‘USB’ in Finder.
 
 sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
 
-![alt test](/Pictures/Screenshot 2021-03-29 at 15.20.03.png)
+![alt test](/Pictures/4.png)
 
 
 You will then see the percentages for formatting, installing it on the USB, etc. Wait till it’s finished. This can take some time! It usually takes an hour and a bit more on my system.
