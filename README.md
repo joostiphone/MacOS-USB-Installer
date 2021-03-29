@@ -27,7 +27,7 @@ Download it and wait. It’s approx. 13 GB so it can take a while:
 
 ![alt test](/Pictures/2.png)
 
-After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ‘Applications’ folder as ‘’Install MacOS Big Sur.app.
+After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ‘Applications’ folder as ‘Install MacOS Big Sur.app'.
 
 ![alt test](/Pictures/3.png)
 
@@ -40,7 +40,7 @@ After it’s been downloaded you will see the following screen, but you need to 
 
 Your USB should now appear as ‘USB’ in Finder. 
 
-3.	Open the Terminal app and write down the following
+3.	Open the 'Terminal' app and write down the following
 
 sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
 
@@ -54,4 +54,4 @@ If it fails at a certain point, just keep trying be starting from step 2 again.
 4.	Now, the only thing that lefts remaining is to copy your pre-made EFI folder to the EFI-partition of your USB stick. So, mount the EFI-partition with e.g. OpenCore Configurator (go to Tools -> Mount EFI) and then copy your pre-made EFI folder to the empty EFI-partition. 
 
 # Enjoy! 
-Once you boot your system, and start up from the USB stick, you have a way to boot your system from or to install a new hackintosh system with. 
+Once you boot your system, and start up from the USB stick, you'll have a way to boot your system from, or to install a new hackintosh system with. 
