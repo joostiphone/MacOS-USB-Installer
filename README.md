@@ -27,21 +27,21 @@ Download it and wait. It’s approx. 13 GB so it can take a while:
 
 ![alt test](/Pictures/2.png)
 
-After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ‘Applications’ folder as ‘Install MacOS Big Sur.app'.
+After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ```Applications``` folder as ```Install MacOS Big Sur.app```.
 
 ![alt test](/Pictures/3.png)
 
 
 2.	Format your USB stick as follows:
-- 2a. Name it ‘USB’
-- 2b. Format as ‘Mac OS Extended (journaled)’
-- 2c. Choose 'GUID Partition Map' scheme
+- 2a. Name it ```USB```
+- 2b. Format as ```Mac OS Extended (journaled)```
+- 2c. Choose ```GUID Partition Map``` scheme
 
 ![alt test](/Pictures/usbformat.png)
 
-Your USB should now appear as ‘USB’ in Finder. 
+Your USB should now appear as ```USB``` in Finder. 
 
-3.	Open the 'Terminal' app and write down the following
+3.	Open the ```Terminal``` app and copy and paste the following in the Terminal window:
 
 ```sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets```
 
