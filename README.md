@@ -43,7 +43,9 @@ Your USB should now appear as ‘USB’ in Finder.
 
 3.	Open the 'Terminal' app and write down the following
 
+'''
 sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets
+'''
 
 ![alt test](/Pictures/4.png)
 
