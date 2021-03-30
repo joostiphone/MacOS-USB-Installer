@@ -35,6 +35,7 @@ After it’s been downloaded you will see the following screen, but you need to 
 2.	Format your USB stick as follows:
 - 2a. Name it ‘USB’
 - 2b. Format as ‘Mac OS Extended (journaled)’
+- 2c. Choose 'GUID Partition Map' scheme
 
 ![alt test](/Pictures/usbformat.png)
 
