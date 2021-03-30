@@ -36,7 +36,7 @@ After it’s been downloaded you will see the following screen, but you need to 
 - 2a. Name it ‘USB’
 - 2b. Format as ‘Mac OS Extended (journaled)’
 
-![alt test](/Pictures/1.png)
+![alt test](/Pictures/usbformat.png)
 
 Your USB should now appear as ‘USB’ in Finder. 
 
