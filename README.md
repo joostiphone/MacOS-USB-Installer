@@ -1,4 +1,4 @@
-# MacOS (Big Sur) USB Installer
+# MacOS (Monterey / Big Sur) USB Installer
 
 This is a small how-to showing how to create a MacOS USB Installer and why you should do this.
 
@@ -21,13 +21,13 @@ https://www.aliexpress.com/item/4000495003631.html?spm=a2g0o.productlist.0.0.4aa
 -	A Mac (hackintosh already or a genuine Mac) with a USB port
 -	A little bit of time and patience..
 
-1.	Download Big Sur in the AppStore on your current Mac:
+1.	Download MacOS (Monterey / Big Sur) in the AppStore on your current Mac:
 
 Download it and wait. It’s approx. 13 GB so it can take a while:
 
 ![alt test](/Pictures/2.png)
 
-After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ```Applications``` folder as ```Install MacOS Big Sur.app```.
+After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ```Applications``` folder as ```Install MacOS XXXXX.app```.
 
 ![alt test](/Pictures/3.png)
 
@@ -43,7 +43,13 @@ Your USB should now appear as ```USB``` in Finder.
 
 3.	Open the ```Terminal``` app and copy and paste the following in the Terminal window:
 
+Big Sur:
+
 ```sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets```
+
+Monterey (BETA):
+
+```sudo /Applications/Install\ macOS\ 12\ Beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets```
 
 ![alt test](/Pictures/4.png)
 
