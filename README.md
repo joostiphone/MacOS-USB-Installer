@@ -49,7 +49,7 @@ Big Sur:
 
 Monterey (BETA):
 
-```sudo /Applications/Install\ macOS\ 12\ Beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets```
+```sudo /Applications/Install\ macOS\ Monterey\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 ![alt test](/Pictures/4.png)
 
