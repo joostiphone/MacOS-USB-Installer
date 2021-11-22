@@ -25,7 +25,7 @@ https://www.aliexpress.com/item/4000495003631.html?spm=a2g0o.productlist.0.0.4aa
 
 Download it and wait. It’s approx. 13 GB so it can take a while:
 
-![alt test](/Pictures/2.png)
+![alt test](/Pictures/MontereyDownload.png)
 
 After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ```Applications``` folder as ```Install MacOS XXXXX.app```.
 
