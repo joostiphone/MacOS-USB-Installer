@@ -29,7 +29,7 @@ Download it and wait. It’s approx. 13 GB so it can take a while:
 
 After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ```Applications``` folder as ```Install MacOS XXXXX.app```.
 
-![alt test](/Pictures/SNAG-0002 22-11-2021 08.42.36.png)
+![alt test](/Pictures/MontereyInstaller.png)
 
 
 2.	Format your USB stick, using the ```Disk Utility``` app, as follows:
