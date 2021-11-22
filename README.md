@@ -41,7 +41,7 @@ After it’s been downloaded you will see the following screen, but you need to 
 
 Your USB should now appear as ```USB``` in Finder. 
 
-3.	Open the ```Terminal``` app and copy and paste the following in the Terminal window:
+3.	Open the ```Terminal``` app and copy and paste one of the following in the Terminal window, depending on which MacOS version you will install:
 
 Big Sur:
 
@@ -50,6 +50,11 @@ Big Sur:
 Monterey (BETA):
 
 ```sudo /Applications/Install\ macOS\ Monterey\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
+
+Monterey (any FINAL version):
+
+```sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
+
 
 ![alt test](/Pictures/4.png)
 
