@@ -4,6 +4,8 @@ This is a small how-to showing how to create a MacOS USB Installer and why you s
 
 ![alt test](/Pictures/USB-Stick-Logo-MacOS.png)
 
+![alt test](/Pictures/USB-STICK-VENTURA.png)
+
 # Why creating a USB installer:
 
 There are mainly 3 reasons I can think of to have a USB installer prepared:
@@ -54,6 +56,14 @@ Monterey (BETA):
 Monterey (any FINAL version):
 
 ```sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
+
+Ventura (BETA):
+
+```sudo /Applications/Install\ macOS\ 13\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
+
+or
+
+```sudo /Applications/Install\ macOS\ Ventura\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 
 ![alt test](/Pictures/4.png)
