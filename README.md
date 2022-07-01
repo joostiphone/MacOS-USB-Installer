@@ -4,7 +4,7 @@ This is a small how-to showing how to create a MacOS USB Installer and why you s
 
 ![alt test](/Pictures/USB-Stick-Logo-MacOS.png)
 
-![alt test](/Pictures/USB-STICK-VENTURA.png)
+![alt test](/Pictures/USB-STICK-VENTURA1.png)
 
 # Why creating a USB installer:
 
