@@ -1,4 +1,4 @@
-# MacOS (Monterey / Big Sur) USB Installer
+# MacOS (Ventura / Monterey / Big Sur) USB Installer
 
 This is a small how-to showing how to create a MacOS USB Installer and why you should do this.
 
@@ -23,7 +23,7 @@ https://www.aliexpress.com/item/4000495003631.html?spm=a2g0o.productlist.0.0.4aa
 -	A Mac (hackintosh already or a genuine Mac) with a USB port
 -	A little bit of time and patience..
 
-1.	Download MacOS (Monterey / Big Sur) in the AppStore on your current Mac:
+1.	Download MacOS (Ventura / Monterey / Big Sur) in the AppStore on your current Mac:
 
 Download it and wait. It’s approx. 13 GB so it can take a while:
 
@@ -76,4 +76,4 @@ If it fails at a certain point, just keep trying be starting from step 2 again.
 4.	Now, the only thing that lefts remaining is to copy your pre-made EFI folder to the EFI-partition of your USB stick. So, mount the EFI-partition with e.g. OpenCore Configurator (go to Tools -> Mount EFI) and then copy your pre-made EFI folder to the empty EFI-partition. 
 
 # Enjoy! 
-Once you boot your system, and start up from the USB stick, you'll have a way to boot your system from, or to install a new hackintosh system with. 
+Once you boot your system, and start up from the USB stick (using F12 or Del key), you'll have a way to boot your system from, or to install a new hackintosh system with. 
