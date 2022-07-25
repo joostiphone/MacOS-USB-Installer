@@ -21,11 +21,19 @@ https://www.aliexpress.com/item/4000495003631.html?spm=a2g0o.productlist.0.0.4aa
 -	A Mac (hackintosh already or a genuine Mac) with a USB port
 -	A little bit of time and patience..
 
-1.	Download MacOS (Ventura / Monterey / Big Sur) in the AppStore on your current Mac:
+1a.	Download MacOS (Ventura / Monterey / Big Sur) in the AppStore on your current Mac:
 
 Download it and wait. It’s approx. 13 GB so it can take a while:
 
 ![alt test](/Pictures/MontereyDownload.png)
+
+1b. Alternatively you can use GibMacOS. This tool downloads the desired OS straight from Apple's server.
+https://github.com/corpnewt/gibMacOS
+
+- Download the files from Github.
+- On a Mac, use ```gibMacOS.command```
+- Download the desired OS.
+- Go to folder ```macOS Downloads``` and hit ```InstallAssistant.pkg```. This will copy the OS Installer to your ```Applications```. folder.
 
 After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ```Applications``` folder as ```Install MacOS XXXXX.app```.
 
