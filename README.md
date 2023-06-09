@@ -1,8 +1,8 @@
-# MacOS (Ventura / Monterey / Big Sur) USB Installer
+# MacOS (Sonoma / Ventura / Monterey / Big Sur) USB Installer
 
 This is a small how-to showing how to create a MacOS USB Installer and why you should do this.
 
-![alt test](/Pictures/USB-STICK-VENT-MONT.png)
+![alt test](/Pictures/USB-STICK-Vent-Sonoma.png)
 
 # Why creating a USB installer:
 
