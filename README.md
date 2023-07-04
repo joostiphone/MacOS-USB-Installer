@@ -40,6 +40,8 @@ https://github.com/corpnewt/gibMacOS
 https://mrmacintosh.com/macos-sonoma-full-installer-database-download-directly-from-apple/
 - Go to folder ```macOS Downloads``` and hit ```InstallAssistant.pkg```. This will copy the OS Installer to your ```Applications```. folder.
 
+![alt test](/Pictures/2023-07-04_08-17-41.png)
+
 After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ```Applications``` folder as ```Install MacOS XXXXX.app```.
 
 ![alt test](/Pictures/2023-07-04_08-52-13.png)
@@ -91,7 +93,6 @@ You will then see the percentages for formatting, installing it on the USB, etc.
 
 ![alt test](/Pictures/2023-07-04_08-15-44.png)
 ![alt test](/Pictures/2023-07-04_08-16-04.png)
-![alt test](/Pictures/2023-07-04_08-17-41.png)
 ![alt test](/Pictures/2023-07-04_08-18-27.png)
 ![alt test](/Pictures/2023-07-04_08-18-37.png)
 ![alt test](/Pictures/2023-07-04_08-29-36.png)
