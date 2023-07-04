@@ -4,6 +4,20 @@ This is a small how-to showing how to create a MacOS USB Installer and why you s
 
 ![alt test](/Pictures/USB-STICK-Vent-Sonoma.png)
 
+![alt test](/Pictures/2023-07-04_08-15-44.png)
+![alt test](/Pictures/2023-07-04_08-16-04.png)
+![alt test](/Pictures/2023-07-04_08-17-41.png)
+![alt test](/Pictures/2023-07-04_08-18-27.png)
+![alt test](/Pictures/2023-07-04_08-18-37.png)
+![alt test](/Pictures/2023-07-04_08-29-36.png)
+![alt test](/Pictures/2023-07-04_08-30-40.png)
+![alt test](/Pictures/2023-07-04_08-30-52.png)
+![alt test](/Pictures/2023-07-04_08-31-05.png)
+![alt test](/Pictures/2023-07-04_08-31-05.png)
+![alt test](/Pictures/2023-07-04_08-32-18.png)
+
+
+
 # Why creating a USB installer:
 
 There are mainly 3 reasons I can think of to have a USB installer prepared:
@@ -41,7 +55,7 @@ https://mrmacintosh.com/macos-sonoma-full-installer-database-download-directly-f
 
 After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ```Applications``` folder as ```Install MacOS XXXXX.app```.
 
-![alt test](/Pictures/MontereyInstaller.png)
+![alt test](/Pictures/2023-07-04_08-52-13.png)
 
 
 2.	Format your USB stick, using the ```Disk Utility``` app, as follows:
