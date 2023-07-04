@@ -4,19 +4,6 @@ This is a small how-to showing how to create a MacOS USB Installer and why you s
 
 ![alt test](/Pictures/USB-STICK-Vent-Sonoma.png)
 
-![alt test](/Pictures/2023-07-04_08-15-44.png)
-![alt test](/Pictures/2023-07-04_08-16-04.png)
-![alt test](/Pictures/2023-07-04_08-17-41.png)
-![alt test](/Pictures/2023-07-04_08-18-27.png)
-![alt test](/Pictures/2023-07-04_08-18-37.png)
-![alt test](/Pictures/2023-07-04_08-29-36.png)
-![alt test](/Pictures/2023-07-04_08-30-40.png)
-![alt test](/Pictures/2023-07-04_08-30-52.png)
-![alt test](/Pictures/2023-07-04_08-31-05.png)
-![alt test](/Pictures/2023-07-04_08-31-05.png)
-![alt test](/Pictures/2023-07-04_08-32-18.png)
-
-
 
 # Why creating a USB installer:
 
@@ -100,11 +87,19 @@ Beta 1:
 Beta 2:
 ```sudo /Applications/Install\ macOS\ Sonoma\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-
-![alt test](/Pictures/4.png)
-
-
 You will then see the percentages for formatting, installing it on the USB, etc. Wait till it’s finished. This can take some time! It usually takes an hour and a bit more on my system.
+
+![alt test](/Pictures/2023-07-04_08-15-44.png)
+![alt test](/Pictures/2023-07-04_08-16-04.png)
+![alt test](/Pictures/2023-07-04_08-17-41.png)
+![alt test](/Pictures/2023-07-04_08-18-27.png)
+![alt test](/Pictures/2023-07-04_08-18-37.png)
+![alt test](/Pictures/2023-07-04_08-29-36.png)
+![alt test](/Pictures/2023-07-04_08-30-40.png)
+![alt test](/Pictures/2023-07-04_08-30-52.png)
+![alt test](/Pictures/2023-07-04_08-31-05.png)
+![alt test](/Pictures/2023-07-04_08-31-05.png)
+![alt test](/Pictures/2023-07-04_08-32-18.png)
 
 If it fails at a certain point, just keep trying be starting from step 2 again. 
 
