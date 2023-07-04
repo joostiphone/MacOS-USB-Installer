@@ -76,7 +76,11 @@ Ventura (Final):
 
 
 Sonoma (BETA):
+Beta 1:
 ```sudo /Applications/Install\ macOS\ 14\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
+
+Beta 2:
+```sudo /Applications/Install\ macOS\ Sonoma\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 
 ![alt test](/Pictures/4.png)
