@@ -9,24 +9,21 @@ This is a small how-to showing how to create a MacOS USB Installer and why you s
 
 There are mainly 3 reasons I can think of to have a USB installer prepared:
 -	Have a USB-stick ready (with your pre-made EFI) to install MacOS on a fresh system.
--	Have a USB-stick ready (with your pre-made EFI) to boot your current hackintosh from, in case your hackintosh EFI is messed-up somehow, and/or to perform recovery tasks if required.
+-	Have a USB-stick ready (with your pre-made EFI) to boot your current Hackintosh from, in case your Hackintosh EFI is messed-up somehow, and/or to perform recovery tasks if required.
 -	Have a USB-stick ready (with your pre-made EFI) to boot your current genuine Mac and/or to perform recovery tasks if required.
 
 
-# How to Create the USB installer:
+# How to Create the USB Installer:
 
 You need:
 
 -	1 USB stick. I recommend a 32GB stick. You can get them very cheap over here: 
 https://www.aliexpress.com/item/4000495003631.html?spm=a2g0o.productlist.0.0.4aa64b6akYvBql&algo_pvid=0d8314eb-bf69-4d98-ab9f-6c4cd2230651&algo_expid=0d8314eb-bf69-4d98-ab9f-6c4cd2230651-1&btsid=2100bdd716170225997251459e7502&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
--	A Mac (hackintosh already or a genuine Mac) with a USB port
--	A little bit of time and patience..
+-	A Mac (Hackintosh already or a genuine Mac) with a USB port
+-	A little bit of time and patience
 
-1a.	Download MacOS (Ventura / Monterey / Big Sur) in the AppStore on your current Mac:
-
-Download it and wait. It’s approx. 13 GB so it can take a while:
-
-![alt test](/Pictures/MontereyDownload.png)
+1a.	Download MacOS (Sonoma / Ventura / Monterey / Big Sur) in the AppStore on your current Mac:
+Download it and wait. It’s approx. 13 GB so it can take a while depending on your internet connection.
 
 1b. Alternatively you can use GibMacOS. This tool downloads the desired OS straight from Apple's server.
 https://github.com/corpnewt/gibMacOS
@@ -102,9 +99,9 @@ You will then see the percentages for formatting, installing it on the USB, etc.
 ![alt test](/Pictures/2023-07-04_08-31-05.png)
 ![alt test](/Pictures/2023-07-04_08-32-18.png)
 
-If it fails at a certain point, just keep trying be starting from step 2 again. 
+If it fails at a certain point, keep trying by starting from step 2 again. 
 
-4.	Now, the only thing that lefts remaining is to copy your pre-made EFI folder to the EFI-partition of your USB stick. So, mount the EFI-partition with e.g. OpenCore Configurator (go to Tools -> Mount EFI) and then copy your pre-made EFI folder to the empty EFI-partition. 
+4.	Now, the only remaining thing is to copy your pre-made EFI folder to the EFI partition of your USB stick. So, mount the EFI partition with e.g. OpenCore Configurator (go to Tools -> Mount EFI) and then copy your pre-made EFI folder to the empty EFI partition. 
 
 # Enjoy! 
-Once you boot your system, and start up from the USB stick (using F12 or Del key), you'll have a way to boot your system from, or to install a new hackintosh system with. 
+Once you boot your system, and start-up from the USB stick (using F12 or Del key), you'll have a way to boot your system from or install a new Hackintosh system with. 
