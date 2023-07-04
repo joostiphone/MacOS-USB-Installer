@@ -35,6 +35,10 @@ https://github.com/corpnewt/gibMacOS
 - Download the desired OS.
 - Go to folder ```macOS Downloads``` and hit ```InstallAssistant.pkg```. This will copy the OS Installer to your ```Applications```. folder.
 
+1c. Alternatively you can download the latest macOS version here. It will be downloaded straight from Apple's server. 
+https://mrmacintosh.com/macos-sonoma-full-installer-database-download-directly-from-apple/
+- Go to folder ```macOS Downloads``` and hit ```InstallAssistant.pkg```. This will copy the OS Installer to your ```Applications```. folder.
+
 After it’s been downloaded you will see the following screen, but you need to close it. Don’t worry, your download can still be found in your ```Applications``` folder as ```Install MacOS XXXXX.app```.
 
 ![alt test](/Pictures/MontereyInstaller.png)
