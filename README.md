@@ -56,6 +56,7 @@ Your USB should now appear as ```USB``` in Finder.
 3.	Open the ```Terminal``` app and copy and paste one of the following in the Terminal window, depending on which MacOS version you will install:
 
 Big Sur (final):
+
 ```sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets```
 
 Monterey (beta):
@@ -63,9 +64,11 @@ Monterey (beta):
 ```sudo /Applications/Install\ macOS\ Monterey\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 Monterey (final):
+
 ```sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 Monterey (final):
+
 ```sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 Ventura (beta):
@@ -75,17 +78,22 @@ Ventura (beta):
 ```sudo /Applications/Install\ macOS\ Ventura\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 Ventura (final):
+
 ```sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 
 Sonoma (beta):
+
 Beta 1:
+
 ```sudo /Applications/Install\ macOS\ 14\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 Beta 2:
+
 ```sudo /Applications/Install\ macOS\ Sonoma\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 Sonoma (final):
+
 ```sudo /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 
