@@ -55,36 +55,39 @@ Your USB should now appear as ```USB``` in Finder.
 
 3.	Open the ```Terminal``` app and copy and paste one of the following in the Terminal window, depending on which MacOS version you will install:
 
-Big Sur:
-
+Big Sur (final):
 ```sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets```
 
-Monterey (BETA):
+Monterey (beta):
 
 ```sudo /Applications/Install\ macOS\ Monterey\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-Monterey (any FINAL version):
-
+Monterey (final):
 ```sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-Ventura (BETA):
+Monterey (final):
+```sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
+
+Ventura (beta):
 
 ```sudo /Applications/Install\ macOS\ 13\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-or
-
 ```sudo /Applications/Install\ macOS\ Ventura\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-Ventura (Final):
+Ventura (final):
 ```sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 
-Sonoma (BETA):
+Sonoma (beta):
 Beta 1:
 ```sudo /Applications/Install\ macOS\ 14\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 Beta 2:
 ```sudo /Applications/Install\ macOS\ Sonoma\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
+
+Sonoma (final):
+```sudo /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
+
 
 You will then see the percentages for formatting, installing it on the USB, etc. Wait till it’s finished. This can take some time! It usually takes an hour and a bit more on my system.
 
