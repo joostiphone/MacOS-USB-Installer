@@ -25,7 +25,12 @@ https://www.aliexpress.com/item/4000495003631.html?spm=a2g0o.productlist.0.0.4aa
 1a.	Download MacOS (Sonoma / Ventura / Monterey / Big Sur) in the AppStore on your current Mac:
 Download it and wait. It’s approx. 13 GB so it can take a while depending on your internet connection.
 
-1b. Alternatively you can use GibMacOS. This tool downloads the desired OS straight from Apple's server.
+1b. Alternatively you can use Mist. This tool downloads the desired OS straight from Apple's server.
+https://github.com/ninxsoft/Mist
+
+![alt test](/Pictures/2023-10-31_08-22-29.png)
+
+1c. Alternatively you can use GibMacOS. This tool downloads the desired OS straight from Apple's server.
 https://github.com/corpnewt/gibMacOS
 
 - Download the files from Github.
@@ -33,7 +38,7 @@ https://github.com/corpnewt/gibMacOS
 - Download the desired OS.
 - Go to folder ```macOS Downloads``` and hit ```InstallAssistant.pkg```. This will copy the OS Installer to your ```Applications```. folder.
 
-1c. Alternatively you can download the latest macOS version here. It will be downloaded straight from Apple's server. 
+1d. Alternatively you can download the latest macOS version here. It will be downloaded straight from Apple's server. 
 https://mrmacintosh.com/macos-sonoma-full-installer-database-download-directly-from-apple/
 - Go to folder ```macOS Downloads``` and hit ```InstallAssistant.pkg```. This will copy the OS Installer to your ```Applications```. folder.
 
