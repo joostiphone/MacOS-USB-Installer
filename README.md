@@ -63,7 +63,7 @@ Your USB should now appear as ```USB``` in Finder.
 # Big Sur (final):
 ```sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets```
 
-# Monterey 
+# Monterey:
 Beta: 
 ```sudo /Applications/Install\ macOS\ Monterey\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
