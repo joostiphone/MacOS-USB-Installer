@@ -22,7 +22,7 @@ https://www.aliexpress.com/item/4000495003631.html?spm=a2g0o.productlist.0.0.4aa
 -	A Mac (Hackintosh already or a genuine Mac) with a USB port
 -	A little bit of time and patience
 
-1a.	Download MacOS (Sonoma / Ventura / Monterey / Big Sur) in the AppStore on your current Mac:
+1a.	Download MacOS (Sequoia / Sonoma / Ventura / Monterey / Big Sur) in the AppStore on your current Mac:
 Download it and wait. It’s approx. 13 GB so it can take a while depending on your internet connection.
 
 1b. Alternatively you can use Mist. This tool downloads the desired OS straight from Apple's server.
@@ -60,53 +60,43 @@ Your USB should now appear as ```USB``` in Finder.
 
 3.	Open the ```Terminal``` app and copy and paste one of the following in the Terminal window, depending on which MacOS version you will install:
 
-Big Sur (final):
-
+# Big Sur (final):
 ```sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets```
 
-Monterey (beta):
-
+# Monterey (beta):
 ```sudo /Applications/Install\ macOS\ Monterey\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-Monterey (final):
-
+# Monterey (final):
 ```sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-Monterey (final):
-
+# Monterey (final):
 ```sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-Ventura (beta):
+# Ventura:
 
+Beta:
 ```sudo /Applications/Install\ macOS\ 13\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
-
+or
 ```sudo /Applications/Install\ macOS\ Ventura\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-Ventura (final):
-
+Final:
 ```sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 
-Sonoma:
-
+# Sonoma:
 Beta 1:
-
 ```sudo /Applications/Install\ macOS\ 14\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 Beta 2:
-
 ```sudo /Applications/Install\ macOS\ Sonoma\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 Sonoma (final):
-
 ```sudo /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-Sequoia: 
+# Sequoia: 
 
 Beta Dev 2:
-
 ```sudo /Applications/Install\ macOS\ Sequoia\ Beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
-
 
 You will then see the percentages for formatting, installing it on the USB, etc. Wait till it’s finished. This can take some time! It usually takes an hour and a bit more on my system.
 
