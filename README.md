@@ -87,7 +87,7 @@ Beta 1:
 Beta 2:
 ```sudo /Applications/Install\ macOS\ Sonoma\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-Sonoma (final):
+Final:
 ```sudo /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 # Sequoia: 
