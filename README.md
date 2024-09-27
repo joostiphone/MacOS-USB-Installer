@@ -19,6 +19,7 @@ You need:
 
 -	1 USB stick. I recommend a 32GB stick. You can get them very cheap over here: 
 https://www.aliexpress.com/item/4000495003631.html?spm=a2g0o.productlist.0.0.4aa64b6akYvBql&algo_pvid=0d8314eb-bf69-4d98-ab9f-6c4cd2230651&algo_expid=0d8314eb-bf69-4d98-ab9f-6c4cd2230651-1&btsid=2100bdd716170225997251459e7502&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
+- I recommend to use a USB-C stick or even better NVM-e storage, or use a USB-A stick (which supports;) on a USB 3.0 port. This saves time.
 -	A Mac (Hackintosh already or a genuine Mac) with a USB port
 -	A little bit of time and patience
 
