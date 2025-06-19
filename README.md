@@ -1,11 +1,11 @@
-# MacOS (Sequoia / Sonoma / Ventura / Monterey / Big Sur) USB Installer
+# MacOS USB Installer for Tahoe / Sequoia / Sonoma / Ventura / Monterey / Big Sur
 
-This is a small how-to showing how to create a MacOS USB Installer and why you should do this.
+## This is a small how-to showing how to create a MacOS USB Installer and why you should do this.
 
 ![alt test](/Pictures/USB-STICK-TAHOE.png)
 ![alt test](/Pictures/USB-STICK-Sonoma-Sequoia.png)
 
-# Why creating a USB installer:
+## Why creating a USB installer:
 
 There are mainly 3 reasons I can think of to have a USB installer prepared:
 -	Have a USB-stick ready (with your pre-made EFI) to install MacOS on a fresh system.
@@ -13,7 +13,7 @@ There are mainly 3 reasons I can think of to have a USB installer prepared:
 -	Have a USB-stick ready (with your pre-made EFI) to boot your current genuine Mac and/or to perform recovery tasks if required.
 
 
-# How to Create the USB Installer:
+## How to Create the USB Installer:
 
 You need:
 
@@ -61,17 +61,17 @@ Your USB should now appear as ```USB``` in Finder.
 
 3.	Open the ```Terminal``` app and copy and paste one of the following in the Terminal window, depending on which MacOS version you will install:
 
-# Big Sur (final):
+### Big Sur (final):
 ```sudo /Applications/Install\ macOS\ Big\ Sur.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets```
 
-# Monterey:
+### Monterey:
 Beta: 
 ```sudo /Applications/Install\ macOS\ Monterey\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 Final:
 ```sudo /Applications/Install\ macOS\ Monterey.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-# Ventura:
+### Ventura:
 Beta:
 ```sudo /Applications/Install\ macOS\ 13\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 or
@@ -81,7 +81,7 @@ Final:
 ```sudo /Applications/Install\ macOS\ Ventura.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 
-# Sonoma:
+### Sonoma:
 Beta 1:
 ```sudo /Applications/Install\ macOS\ 14\ beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
@@ -91,7 +91,7 @@ Beta 2:
 Final:
 ```sudo /Applications/Install\ macOS\ Sonoma.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
-# Sequoia: 
+### Sequoia: 
 
 Beta:
 ```sudo /Applications/Install\ macOS\ Sequoia\ Beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
@@ -100,7 +100,7 @@ Final:
 ```sudo /Applications/Install\ macOS\ Sequoia.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
 
 
-# Tahoe:
+### Tahoe:
 
 Dev1:
 ```sudo /Applications/Install\ macOS\ Beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets```
