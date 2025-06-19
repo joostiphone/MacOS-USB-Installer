@@ -2,8 +2,8 @@
 
 This is a small how-to showing how to create a MacOS USB Installer and why you should do this.
 
+![alt test](/Pictures/USB-STICK-TAHOE.png)
 ![alt test](/Pictures/USB-STICK-Sonoma-Sequoia.png)
-
 
 # Why creating a USB installer:
 
@@ -98,6 +98,12 @@ Beta:
 
 Final:
 ```sudo /Applications/Install\ macOS\ Sequoia.app/Contents/Resources/createinstallmedia --volume /Volumes/USB —nointeraction —downloadassets```
+
+
+# Tahoe:
+
+Dev1:
+```sudo /Applications/Install\ macOS\ Beta.app/Contents/Resources/createinstallmedia --volume /Volumes/USB --nointeraction --downloadassets```
 
 
 You will then see the percentages for formatting, installing it on the USB, etc. Wait till it’s finished. This can take some time! It usually takes an hour and a bit more on my system.
